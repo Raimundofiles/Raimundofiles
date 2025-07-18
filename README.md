@@ -67,6 +67,11 @@
 - [Landing-Page-Financial-System](https://github.com/Raimundofiles/Landing-Page-Financial-System)
 - [Landing-Page-Car](https://github.com/Raimundofiles/Landing-Page-Car)
 
+  <!-- GIF -->
+  <p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  </p>
+
 
 
 <picture align="center">
@@ -76,7 +81,4 @@
 </picture>
 
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+
